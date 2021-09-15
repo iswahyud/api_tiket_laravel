@@ -68,5 +68,5 @@ Langkah-Langkah
    Method: POST <br>
    Parameter: id <br>
 
-SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>ISWAHYUDI</b>
+Created by <b>ISWAHYUDI</b>
 
