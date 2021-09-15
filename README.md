@@ -31,28 +31,28 @@ Langkah-Langkah
 13. Setelah selesai, Jalankan perintah <b>php artisan serve</b> maka dapat diakses dengan http://localhost:8000/
 
 # API Url & Param
-1. Mendapatkan daftar tiket:
-   Url: http://localhost:8000/api/getTicket/10
-   Method: GET
+1. Mendapatkan daftar tiket:<br>
+   Url: http://localhost:8000/api/getTicket/10 <br>
+   Method: GET <br>
 
-2. Menambah Tiket Baru:
-   Url: http://localhost:8000/api/addTicket
-   Method: POST
-   Parameter: subject, message, priority
+2. Menambah Tiket Baru:<br>
+   Url: http://localhost:8000/api/addTicket <br>
+   Method: POST <br>
+   Parameter: subject, message, priority <br>
    
-3. Membalas Tiket, Status otomatis menjadi <b>Answered</b>:
-   Url: http://localhost:8000/api/replyTicket
-   Method: POST
-   Parameter: message, ticket_id
+3. Membalas Tiket, Status otomatis menjadi <b>Answered</b>:<br>
+   Url: http://localhost:8000/api/replyTicket <br>
+   Method: POST <br>
+   Parameter: message, ticket_id <br>
 
-4. Menutup ticket, status otomatis menjadi <b>Closed</b>:
-   Url: http://localhost:8000/api/closeTicket
-   Method: POST
-   Parameter: ticket_id
+4. Menutup ticket, status otomatis menjadi <b>Closed</b>: <br>
+   Url: http://localhost:8000/api/closeTicket <br>
+   Method: POST <br>
+   Parameter: ticket_id <br>
    
-5. Menghapus Tiket:
-   Url: http://localhost:8000/api/delTicket
-   Method: POST
-   Parameter: id
+5. Menghapus Tiket: <br>
+   Url: http://localhost:8000/api/delTicket <br>
+   Method: POST <br>
+   Parameter: id <br>
 
 SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>ISWAHYUDI</b>
